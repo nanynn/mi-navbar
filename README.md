@@ -1,2 +1,2 @@
 # mi-navbar
-Ejercicio guiado float y display 
+Ejercicio guiado display con un navegador desplegable. 
